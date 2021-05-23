@@ -4,7 +4,9 @@ using namespace std;
 
 int main(){
 
-    cout << "Testas";
+    cout << "Testas" <<endl;
+
+    cout << "nauja eilute";
 
     return 0;
 }
